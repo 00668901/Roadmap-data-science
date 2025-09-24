@@ -1,0 +1,17 @@
+Roadmap Data Science untuk 2025
+⁎ Mempelajari Fundamental Python dalam waktu 1 minggu - 8 minggu (2 Bulan)
+¶ Minggu 1 - 2 :
+  - Variabel, Tipe data, Operator, Input/output
+  - Latihan : Menulis minimal 10 baris kode, Menyelesaikan 3 soal latihan (misalnya dari HackerRank/LeetCode easy)
+¶ Minggu 3 - 4 :
+  - Loop, kondisi (if/else), fungsi.
+  - Latihan: mini-kalkulator, game sederhana (tebak angka).
+  - Target : Baca/mengerjakan materi ±30 menit, Satu proyek mini tiap akhir minggu
+¶ Minggu 5 - 6 :
+  - List, tuple, dict, set.
+  - Latihan : File handling & error handling.
+  - Target : bikin program CRUD sederhana (contoh: daftar belanja).
+¶ Minggu 7 - 8 :
+  - OOP (class, inheritance, polymorphism).
+  - Proyek kecil: sistem manajemen mahasiswa.
+  - Target akhir fase: Bisa bikin aplikasi sederhana dengan OOP.
